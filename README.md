@@ -1,6 +1,6 @@
 # HYPERSPECTRAL BIORNET - A COMPLETE WAVELET FRAMEWORK FOR UNMIXING
 
-This repository contains the code implementation of our research paper, **"Hyperspectral BiorNet: A Complete Wavelet Framework For Unmixing,"** submitted to IGARSS 2025. The project presents a novel framework leveraging wavelet transformations and neural networks to enhance hyperspectral unmixing accuracy.
+This repository contains the code implementation of our research paper, **"Hyperspectral BiorNet: A Complete Wavelet Framework For Unmixing"**, submitted to IGARSS 2025. The project presents a novel framework leveraging wavelet transformations and neural networks to enhance hyperspectral unmixing accuracy.
 
 ## Table of Contents
 1. [Introduction](#introduction)
