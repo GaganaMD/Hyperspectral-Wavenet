@@ -125,5 +125,5 @@ If you use this code or find it helpful, please cite:
 ## License and Copyright
 This repository contains the official implementation of the research work submitted to IGARSS 2025. The content of the paper and this code are protected under copyright. Citation details will be updated upon acceptance.
 
-For inquiries regarding the code or paper, please contact: **gaganad.21.beai@acharya.ac.in**.
+For inquiries regarding the code or paper, please contact: **gaganad.21.beai@acharya.ac.in** or **ajaykumarkalyanam2002@gmail.com**.
 
