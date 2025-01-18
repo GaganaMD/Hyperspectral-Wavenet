@@ -49,7 +49,7 @@ The framework is designed to address challenges like noise, spectral variability
 Clone the repository:
 ```bash
 https://github.com/GaganaMD/Hyperspectral-Wavenet.git
-cd hyperspectral-biornet
+cd Hyperspectral-Wavenet
 ```
 
 Install the required dependencies:
@@ -60,11 +60,27 @@ pip install -r requirements.txt
 ---
 
 ## Usage
-1. **Prepare Data**: Ensure your hyperspectral image data is in the correct format. 
-2. **Run the Code**:
-   - Train the model: `python train.py`
-   - Evaluate the model: `python evaluate.py`
-3. **Visualization**: Use the included scripts to visualize predicted abundance maps and extracted endmembers.
+
+1. **Prepare Data**:  
+   - Ensure your hyperspectral image data is in the correct format.  
+   - If using synthetic data, preprocess it accordingly. For real-world datasets, extract relevant abundance maps and endmembers.
+
+2. **Run the Notebooks**:  
+   - **Data Transformation**:  
+     - Convert your hyperspectral data into the wavelet domain for feature extraction and dimensionality reduction.  
+     - Apply necessary transformations (e.g., spherical abundance constraints) to optimize the unmixing process.
+
+   - **Model Training and Evaluation**:  
+     - Train the wavelet-based model using appropriate transformation techniques.  
+     - Evaluate the model's performance using standard metrics and methods.
+
+3. **Visualization**:  
+   - Visualize the results, including predicted abundance maps and extracted endmembers.  
+   - Explore the performance of the custom wavelet-based activation function and its effect on model output.
+
+---
+
+This general procedure guides you through preparing data, training models, and visualizing results. You can adjust the steps according to the specific dataset or experimental needs. For any questions or clarifications, feel free to reach out.
 
 ---
 
