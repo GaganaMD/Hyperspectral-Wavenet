@@ -107,20 +107,6 @@ The model is evaluated using the following metrics:
 
 ---
 
-## Citation
-If you use this code or find it helpful, please cite:
-```
-@article{Gagana2025HyperspectralBiorNet,
-  title={Hyperspectral BiorNet: A Complete Wavelet Framework for Unmixing},
-  author={Gagana M D and Ajay Kumar K and Vijayashekhar S S and Jignesh S. Bhatt},
-  journal={Proceedings of the Hyperspectral Imaging Workshop},
-  year={2025},
-  publisher={Acharya Institute of Technology}
-}
-```
-
----
-
 
 ## License and Copyright
 This repository contains the official implementation of the research work submitted to IGARSS 2025. The content of the paper and this code are protected under copyright. Citation details will be updated upon acceptance.
